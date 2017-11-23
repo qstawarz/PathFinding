@@ -149,60 +149,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/Actors/Enemy.obj: src/Actors/Enemy.cpp.obj
-
-.PHONY : src/Actors/Enemy.obj
-
-# target to build an object file
-src/Actors/Enemy.cpp.obj:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj
-.PHONY : src/Actors/Enemy.cpp.obj
-
-src/Actors/Enemy.i: src/Actors/Enemy.cpp.i
-
-.PHONY : src/Actors/Enemy.i
-
-# target to preprocess a source file
-src/Actors/Enemy.cpp.i:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.i
-.PHONY : src/Actors/Enemy.cpp.i
-
-src/Actors/Enemy.s: src/Actors/Enemy.cpp.s
-
-.PHONY : src/Actors/Enemy.s
-
-# target to generate assembly for a file
-src/Actors/Enemy.cpp.s:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.s
-.PHONY : src/Actors/Enemy.cpp.s
-
-src/Actors/Player.obj: src/Actors/Player.cpp.obj
-
-.PHONY : src/Actors/Player.obj
-
-# target to build an object file
-src/Actors/Player.cpp.obj:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj
-.PHONY : src/Actors/Player.cpp.obj
-
-src/Actors/Player.i: src/Actors/Player.cpp.i
-
-.PHONY : src/Actors/Player.i
-
-# target to preprocess a source file
-src/Actors/Player.cpp.i:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.i
-.PHONY : src/Actors/Player.cpp.i
-
-src/Actors/Player.s: src/Actors/Player.cpp.s
-
-.PHONY : src/Actors/Player.s
-
-# target to generate assembly for a file
-src/Actors/Player.cpp.s:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.s
-.PHONY : src/Actors/Player.cpp.s
-
 src/Managers/DisplayManager.obj: src/Managers/DisplayManager.cpp.obj
 
 .PHONY : src/Managers/DisplayManager.obj
@@ -311,33 +257,6 @@ src/Managers/InputManager.cpp.s:
 	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.s
 .PHONY : src/Managers/InputManager.cpp.s
 
-src/Managers/UIManager.obj: src/Managers/UIManager.cpp.obj
-
-.PHONY : src/Managers/UIManager.obj
-
-# target to build an object file
-src/Managers/UIManager.cpp.obj:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj
-.PHONY : src/Managers/UIManager.cpp.obj
-
-src/Managers/UIManager.i: src/Managers/UIManager.cpp.i
-
-.PHONY : src/Managers/UIManager.i
-
-# target to preprocess a source file
-src/Managers/UIManager.cpp.i:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.i
-.PHONY : src/Managers/UIManager.cpp.i
-
-src/Managers/UIManager.s: src/Managers/UIManager.cpp.s
-
-.PHONY : src/Managers/UIManager.s
-
-# target to generate assembly for a file
-src/Managers/UIManager.cpp.s:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.s
-.PHONY : src/Managers/UIManager.cpp.s
-
 src/Utils/Cell.obj: src/Utils/Cell.cpp.obj
 
 .PHONY : src/Utils/Cell.obj
@@ -365,60 +284,6 @@ src/Utils/Cell.cpp.s:
 	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.s
 .PHONY : src/Utils/Cell.cpp.s
 
-src/Utils/Sprite.obj: src/Utils/Sprite.cpp.obj
-
-.PHONY : src/Utils/Sprite.obj
-
-# target to build an object file
-src/Utils/Sprite.cpp.obj:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj
-.PHONY : src/Utils/Sprite.cpp.obj
-
-src/Utils/Sprite.i: src/Utils/Sprite.cpp.i
-
-.PHONY : src/Utils/Sprite.i
-
-# target to preprocess a source file
-src/Utils/Sprite.cpp.i:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.i
-.PHONY : src/Utils/Sprite.cpp.i
-
-src/Utils/Sprite.s: src/Utils/Sprite.cpp.s
-
-.PHONY : src/Utils/Sprite.s
-
-# target to generate assembly for a file
-src/Utils/Sprite.cpp.s:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.s
-.PHONY : src/Utils/Sprite.cpp.s
-
-src/Utils/Text.obj: src/Utils/Text.cpp.obj
-
-.PHONY : src/Utils/Text.obj
-
-# target to build an object file
-src/Utils/Text.cpp.obj:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj
-.PHONY : src/Utils/Text.cpp.obj
-
-src/Utils/Text.i: src/Utils/Text.cpp.i
-
-.PHONY : src/Utils/Text.i
-
-# target to preprocess a source file
-src/Utils/Text.cpp.i:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.i
-.PHONY : src/Utils/Text.cpp.i
-
-src/Utils/Text.s: src/Utils/Text.cpp.s
-
-.PHONY : src/Utils/Text.s
-
-# target to generate assembly for a file
-src/Utils/Text.cpp.s:
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.s
-.PHONY : src/Utils/Text.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -431,12 +296,6 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... src/Actors/Enemy.obj
-	@echo ... src/Actors/Enemy.i
-	@echo ... src/Actors/Enemy.s
-	@echo ... src/Actors/Player.obj
-	@echo ... src/Actors/Player.i
-	@echo ... src/Actors/Player.s
 	@echo ... src/Managers/DisplayManager.obj
 	@echo ... src/Managers/DisplayManager.i
 	@echo ... src/Managers/DisplayManager.s
@@ -449,18 +308,9 @@ help:
 	@echo ... src/Managers/InputManager.obj
 	@echo ... src/Managers/InputManager.i
 	@echo ... src/Managers/InputManager.s
-	@echo ... src/Managers/UIManager.obj
-	@echo ... src/Managers/UIManager.i
-	@echo ... src/Managers/UIManager.s
 	@echo ... src/Utils/Cell.obj
 	@echo ... src/Utils/Cell.i
 	@echo ... src/Utils/Cell.s
-	@echo ... src/Utils/Sprite.obj
-	@echo ... src/Utils/Sprite.i
-	@echo ... src/Utils/Sprite.s
-	@echo ... src/Utils/Text.obj
-	@echo ... src/Utils/Text.i
-	@echo ... src/Utils/Text.s
 .PHONY : help
 
 

@@ -2,8 +2,8 @@
 // Created by Quentin on 11/20/2017.
 //
 
-#ifndef SFMLQUICKSTART_IMANAGER_H
-#define SFMLQUICKSTART_IMANAGER_H
+#ifndef PATHFINDING_IMANAGER_H
+#define PATHFINDING_IMANAGER_H
 
 namespace Managers
 {

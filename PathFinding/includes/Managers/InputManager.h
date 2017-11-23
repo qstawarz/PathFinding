@@ -2,8 +2,8 @@
 // Created by Quentin on 11/14/2017.
 //
 
-#ifndef CATCH_ME_INPUTMANAGER_H
-#define CATCH_ME_INPUTMANAGER_H
+#ifndef PATHFINDING_INPUTMANAGER_H
+#define PATHFINDING_INPUTMANAGER_H
 
 #include <SFML/Graphics.hpp>
 

@@ -2,8 +2,8 @@
 // Created by Quentin on 11/14/2017.
 //
 
-#ifndef CATCH_ME_DISPLAYMANAGER_H
-#define CATCH_ME_DISPLAYMANAGER_H
+#ifndef PATHFINDING_DISPLAYMANAGER_H
+#define PATHFINDING_DISPLAYMANAGER_H
 
 #include <SFML/Graphics.hpp>
 

@@ -81,60 +81,10 @@ CMakeFiles/PathFinding.dir/main.cpp.obj.provides: CMakeFiles/PathFinding.dir/mai
 CMakeFiles/PathFinding.dir/main.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/main.cpp.obj
 
 
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj: ../src/Actors/Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Actors\Player.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Player.cpp"
-
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Player.cpp" > CMakeFiles\PathFinding.dir\src\Actors\Player.cpp.i
-
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Player.cpp" -o CMakeFiles\PathFinding.dir\src\Actors\Player.cpp.s
-
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.requires
-
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.provides: CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.provides.build
-.PHONY : CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.provides
-
-CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj
-
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj: ../src/Actors/Enemy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Actors\Enemy.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Enemy.cpp"
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Enemy.cpp" > CMakeFiles\PathFinding.dir\src\Actors\Enemy.cpp.i
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Actors\Enemy.cpp" -o CMakeFiles\PathFinding.dir\src\Actors\Enemy.cpp.s
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.requires
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.provides: CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.provides.build
-.PHONY : CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.provides
-
-CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj
-
-
 CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
 CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
 CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj: ../src/Managers/Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Managers\Game.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\Game.cpp"
 
 CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.i: cmake_force
@@ -159,7 +109,7 @@ CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj.provides.build: CMakeFiles/
 CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
 CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
 CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj: ../src/Managers/DisplayManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Managers\DisplayManager.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\DisplayManager.cpp"
 
 CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.i: cmake_force
@@ -184,7 +134,7 @@ CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj.provides.build: C
 CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
 CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
 CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj: ../src/Managers/InputManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Managers\InputManager.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\InputManager.cpp"
 
 CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.i: cmake_force
@@ -206,35 +156,10 @@ CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj.provides: CMakeFile
 CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj
 
 
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj: ../src/Managers/UIManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Managers\UIManager.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\UIManager.cpp"
-
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\UIManager.cpp" > CMakeFiles\PathFinding.dir\src\Managers\UIManager.cpp.i
-
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\UIManager.cpp" -o CMakeFiles\PathFinding.dir\src\Managers\UIManager.cpp.s
-
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.requires
-
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.provides: CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.provides.build
-.PHONY : CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.provides
-
-CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj
-
-
 CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
 CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
 CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj: ../src/Managers/GridManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Managers\GridManager.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Managers\GridManager.cpp"
 
 CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.i: cmake_force
@@ -256,60 +181,10 @@ CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj.provides: CMakeFiles
 CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj
 
 
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj: ../src/Utils/Sprite.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Utils\Sprite.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Sprite.cpp"
-
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Sprite.cpp" > CMakeFiles\PathFinding.dir\src\Utils\Sprite.cpp.i
-
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Sprite.cpp" -o CMakeFiles\PathFinding.dir\src\Utils\Sprite.cpp.s
-
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.requires
-
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.provides: CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.provides.build
-.PHONY : CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.provides
-
-CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj
-
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj: ../src/Utils/Text.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Utils\Text.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Text.cpp"
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Text.cpp" > CMakeFiles\PathFinding.dir\src\Utils\Text.cpp.i
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Text.cpp" -o CMakeFiles\PathFinding.dir\src\Utils\Text.cpp.s
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.requires:
-
-.PHONY : CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.requires
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.provides: CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\PathFinding.dir\build.make CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.provides.build
-.PHONY : CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.provides
-
-CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.provides.build: CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj
-
-
 CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj: CMakeFiles/PathFinding.dir/flags.make
 CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj: CMakeFiles/PathFinding.dir/includes_CXX.rsp
 CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj: ../src/Utils/Cell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PathFinding.dir\src\Utils\Cell.cpp.obj -c "C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\src\Utils\Cell.cpp"
 
 CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.i: cmake_force
@@ -334,30 +209,20 @@ CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj.provides.build: CMakeFiles/Pat
 # Object files for target PathFinding
 PathFinding_OBJECTS = \
 "CMakeFiles/PathFinding.dir/main.cpp.obj" \
-"CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj" \
-"CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj" \
 "CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj" \
 "CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj" \
 "CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj" \
-"CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj" \
 "CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj" \
-"CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj" \
-"CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj" \
 "CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj"
 
 # External object files for target PathFinding
 PathFinding_EXTERNAL_OBJECTS =
 
 PathFinding.exe: CMakeFiles/PathFinding.dir/main.cpp.obj
-PathFinding.exe: CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj
-PathFinding.exe: CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj
-PathFinding.exe: CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj
-PathFinding.exe: CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj
-PathFinding.exe: CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj
 PathFinding.exe: CMakeFiles/PathFinding.dir/build.make
 PathFinding.exe: C:/MinGW/lib/libsfml-system-d.a
@@ -368,7 +233,7 @@ PathFinding.exe: C:/MinGW/lib/libsfml-audio-d.a
 PathFinding.exe: CMakeFiles/PathFinding.dir/linklibs.rsp
 PathFinding.exe: CMakeFiles/PathFinding.dir/objects1.rsp
 PathFinding.exe: CMakeFiles/PathFinding.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable PathFinding.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Quentin\Desktop\Isart Digital\GP1\Math\PathFinding\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable PathFinding.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PathFinding.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -377,15 +242,10 @@ CMakeFiles/PathFinding.dir/build: PathFinding.exe
 .PHONY : CMakeFiles/PathFinding.dir/build
 
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/main.cpp.obj.requires
-CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Actors/Player.cpp.obj.requires
-CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Actors/Enemy.cpp.obj.requires
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Managers/Game.cpp.obj.requires
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Managers/DisplayManager.cpp.obj.requires
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Managers/InputManager.cpp.obj.requires
-CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Managers/UIManager.cpp.obj.requires
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Managers/GridManager.cpp.obj.requires
-CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Utils/Sprite.cpp.obj.requires
-CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Utils/Text.cpp.obj.requires
 CMakeFiles/PathFinding.dir/requires: CMakeFiles/PathFinding.dir/src/Utils/Cell.cpp.obj.requires
 
 .PHONY : CMakeFiles/PathFinding.dir/requires

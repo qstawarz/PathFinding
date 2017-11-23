@@ -4,42 +4,23 @@ project(PathFinding)
 set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp
-        #Actors
-        #includes
-        includes/Actors/IActor.h
-        includes/Actors/Player.h
-        includes/Actors/Enemy.h
-        #src
-        src/Actors/Player.cpp
-        src/Actors/Enemy.cpp
-
         #Managers
         #includes
         includes/Managers/IManager.h
         includes/Managers/Game.h
         includes/Managers/DisplayManager.h
         includes/Managers/InputManager.h
-        includes/Managers/UIManager.h
         includes/Managers/GridManager.h
         #src
         src/Managers/Game.cpp
         src/Managers/DisplayManager.cpp
         src/Managers/InputManager.cpp
-        src/Managers/UIManager.cpp
         src/Managers/GridManager.cpp
-
-        #States
-        #includes
-        #src
 
         #Utils
         #includes
-        includes/Utils/Sprite.h
-        includes/Utils/Text.h
         includes/Utils/Cell.h
         #src
-        src/Utils/Sprite.cpp
-        src/Utils/Text.cpp
         src/Utils/Cell.cpp)
 
 add_executable(PathFinding ${SOURCE_FILES})

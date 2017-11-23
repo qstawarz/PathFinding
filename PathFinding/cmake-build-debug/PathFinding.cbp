@@ -84,15 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Enemy.h">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/IActor.h">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Player.h">
-			<Option target="PathFinding"/>
-		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h">
 			<Option target="PathFinding"/>
 		</Unit>
@@ -108,25 +99,10 @@
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/InputManager.h">
 			<Option target="PathFinding"/>
 		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/UIManager.h">
-			<Option target="PathFinding"/>
-		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Cell.h">
 			<Option target="PathFinding"/>
 		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Sprite.h">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Text.h">
-			<Option target="PathFinding"/>
-		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/main.cpp">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Actors/Enemy.cpp">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Actors/Player.cpp">
 			<Option target="PathFinding"/>
 		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Managers/DisplayManager.cpp">
@@ -141,16 +117,7 @@
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Managers/InputManager.cpp">
 			<Option target="PathFinding"/>
 		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Managers/UIManager.cpp">
-			<Option target="PathFinding"/>
-		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Cell.cpp">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Sprite.cpp">
-			<Option target="PathFinding"/>
-		</Unit>
-		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Text.cpp">
 			<Option target="PathFinding"/>
 		</Unit>
 		<Unit filename="C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/CMakeLists.txt">

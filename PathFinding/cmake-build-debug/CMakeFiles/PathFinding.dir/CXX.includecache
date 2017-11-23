@@ -640,24 +640,6 @@ SFML/Config.hpp
 
 C:/MinGW/include/SFML/Window/WindowStyle.hpp
 
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Enemy.h
-SFML/Graphics.hpp
--
-IActor.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/IActor.h
-../Utils/Sprite.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Sprite.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/IActor.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Player.h
-SFML/Graphics.hpp
--
-IActor.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/IActor.h
-../Utils/Sprite.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Sprite.h
-
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h
 SFML/Graphics.hpp
 -
@@ -671,12 +653,6 @@ DisplayManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h
 InputManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/InputManager.h
-UIManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/UIManager.h
-../Actors/Player.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Player.h
-../Actors/Enemy.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Enemy.h
 GridManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/GridManager.h
 
@@ -698,45 +674,13 @@ SFML/Graphics.hpp
 IManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/IManager.h
 
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/UIManager.h
-SFML/Graphics.hpp
--
-IManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/IManager.h
-../Utils/Text.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Text.h
-
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Cell.h
-SFML/Graphics.hpp
--
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Sprite.h
-SFML/Graphics.hpp
--
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Text.h
 SFML/Graphics.hpp
 -
 
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/main.cpp
 includes/Managers/Game.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/Game.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Actors/Enemy.cpp
-iostream
--
-../../includes/Actors/Enemy.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Enemy.h
-../../includes/Managers/DisplayManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Actors/Player.cpp
-iostream
--
-../../includes/Actors/Player.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Actors/Player.h
-../../includes/Managers/DisplayManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h
 
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Managers/DisplayManager.cpp
 iostream
@@ -766,14 +710,6 @@ iostream
 ../../includes/Managers/InputManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/InputManager.h
 
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Managers/UIManager.cpp
-iostream
--
-../../includes/Managers/UIManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/UIManager.h
-../../includes/Managers/DisplayManager.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/DisplayManager.h
-
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Cell.cpp
 iostream
 -
@@ -781,16 +717,4 @@ iostream
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Cell.h
 ../../includes/Managers/GridManager.h
 C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Managers/GridManager.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Sprite.cpp
-iostream
--
-../../includes/Utils/Sprite.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Sprite.h
-
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/src/Utils/Text.cpp
-iostream
--
-../../includes/Utils/Text.h
-C:/Users/Quentin/Desktop/Isart Digital/GP1/Math/PathFinding/includes/Utils/Text.h
 
